@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+#nav_bar{
+	background-color:#c0c0c0; /*#00FFFF*/
+	width:100;
+}
+#links a{
+	color:white;
+	font-size:40px;
+}
+#nav_bar
+{
+	 width: webkit-fill-available;
+}
+#navbardemo
+{
+	color:red;
+}

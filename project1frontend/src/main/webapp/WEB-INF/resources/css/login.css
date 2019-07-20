@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+body {
+  margin: 0;
+  height: 400px;
+   width: webkit-fill-available;
+   background-repect:no-repect;
+    background-size:cover;
+     background-align:center;
+     font-family:vintage;
+}
+#login .container #login-row #login-column #login-box {
+   margin-top: 120px; 
+  max-width: 600px;
+  height: 400px;
+  border: 1px solid #9C9C9C;
+  background-align:center;
+  border-radius: 40px;
+  background-color:#f3f3f3;
+  font-family:vintage;
+  position : inherit;
+  
+}
+h1 {
+	color:#fff;
+	font-size: 30px;
+	font-weight: 700;
+	text-shadow:0 1px 4px rgb(0,0,0,.2);
+	text-align:center;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 15px; /*20pxchgd */
+   background-align:center;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+  padding: 15px; /*20pxchgd  */
+  background-align:center;
+}
+
+body, html {
+  height: 85%; /* 100CHANGED TO 85 */
+}
+h3
+{
+	font-color:white;
+}
+.container
+{
+	  background-align:center;
+}
